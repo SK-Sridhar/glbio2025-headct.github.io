@@ -5,7 +5,7 @@ Welcome to the Special Session - **Structural neuroimaging in healthcare researc
 ## 📜 About This Tutorial  
 This tutorial covers essential techniques for processing CT images, including:  
 - Data Formats, Metadata, and Imaging Artifacts in Head CT  
-- Fundamentals of CT Image Processing Using SITK
+- Fundamentals of CT Image Processing Using SITK and 3D-Slicer
 - Textural and Morphological Feature Extraction from CT Using PyRadiomics
 - Introduction to Deep learning for TBI Lesion Segmentation Using PyTorch and MONAI  
 
