@@ -1,0 +1,53 @@
+{
+	"Modality": "CT",
+	"InstitutionName": "583",
+	"BodyPart": "HEAD",
+	"PatientPosition": "HFS",
+	"SeriesDescription": "Head  4.5  H31s",
+	"ProtocolName": "Head  4.5  H31s",
+	"ImageType": ["ORIGINAL", "PRIMARY", "AXIAL", "CT", "SOM5 SEQ"],
+	"DeidentificationMethod": ["CTP Default:  based on DICOM PS3.15 AnnexE. Details in 0012,0064"],
+	"DeidentificationMethodCodeSequence": [ 
+	  { 
+		"CodeValue": "113100",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Basic Application Confidentiality Profile"
+	  },
+	  { 
+		"CodeValue": "113103",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Clean Graphics Option"
+	  },
+	  { 
+		"CodeValue": "113105",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Clean Descriptors Option"
+	  },
+	  { 
+		"CodeValue": "113108",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Patient Characteristics Option"
+	  },
+	  { 
+		"CodeValue": "113111",
+		"CodingSchemeDesignator": "DCM",
+		"CodeMeaning": "Retain Safe Private Option"
+	  }
+	],
+	"SeriesNumber": 3,
+	"AcquisitionNumber": 2,
+	"ConvolutionKernel": "H31s",
+	"ExposureTime": 1,
+	"XRayTubeCurrent": 310,
+	"XRayExposure": 310,
+	"ImageOrientationPatientDICOM": [
+		1,
+		0,
+		0,
+		0,
+		0.951057,
+		-0.309017	],
+	"BidsGuess": ["CT","CT"],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20241211"
+}
